@@ -1,0 +1,20 @@
+{
+  "name": "ui-portfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav-singh-5383/ui-portfolio.git"
+  },
+  "keywords": [],
+  "author": "Abhinav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav-singh-5383/ui-portfolio/issues"
+  },
+  "homepage": "https://github.com/abhinav-singh-5383/ui-portfolio#readme"
+}
